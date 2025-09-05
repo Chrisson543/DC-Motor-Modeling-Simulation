@@ -1,2 +1,2 @@
 # DC-Motor-Modeling-Simulation
-Modeled and simulated a brushed DC motor in MATLAB/Simulink using catalog data. Derived key parameters, built transfer functions, and validated results against datasheet performance.
+This project focuses on modeling and simulating a brushed DC motor using MATLAB and Simulink. A Maxon DCX 22 L motor was selected, and its catalog data was used to derive electrical and mechanical parameters such as resistance, inductance, inertia, torque constant, and back EMF constant.
